@@ -1,4 +1,3 @@
-## Reordering Histograms ##
 ## Run after Functions Definition.r ##
 
 #############################################################################
